@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- [] Mitsubishi EVO CT9A
+- [] Nissan Fairlady 400Z
+- [] Toyota Supra A90
