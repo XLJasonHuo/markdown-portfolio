@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Today is a great day, however the weather is not that great, Kanata got hit with a snowstorm during midnight*
